@@ -1,0 +1,18 @@
+This project conatins 15 basic commands for Git.
+these are the following tasks:-
+1. git --vesrion
+2. git init
+3. git config
+4. git status
+5. git add filename
+6. git branch branchname
+7. git checkout branchname
+8. git clone
+9. git push origin master
+10. git pull
+11. git add
+12. git commit -m "message"
+13. git branch -d
+14. git branch
+15. git merge
+
